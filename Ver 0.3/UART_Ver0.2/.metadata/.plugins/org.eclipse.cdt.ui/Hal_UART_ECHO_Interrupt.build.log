@@ -1,0 +1,9 @@
+11:57:15 **** Clean-only build of configuration Debug for project Hal_UART_ECHO_Interrupt ****
+make clean 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:\STM32Toolchain\Build Tools\2.6-201507152002\bin;C:\STM32Toolchain\gnu-arm\5.4 2016q3\bin;C:/Program Files/Java/jre1.8.0_144/bin/server;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\opencv\build\x64\vc14\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.4.0\;C:\Program Files\Git\cmd;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;C:\Users\HUSTAR_19\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\HUSTAR_19\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HUSTAR_19\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Anaconda3\;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Anaconda3\Library\bin;C:\opencv_2.4.13\opencv\build\x64\vc14\bin;;C:\STM32_eclipse\eclipse]
+
+11:57:15 Build Finished (took 47ms)
+
